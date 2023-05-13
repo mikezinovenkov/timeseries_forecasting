@@ -6,4 +6,4 @@
 
 В данной работе рассмотривается метод, в котором используются дополнительные признаки, позволяющие учитывать больше внешних факторов, что означает снижение ошибки в итоговом прогнозе.
 
-[Image alt](https://github.com/mikezinovenkov/timeseries_forecasting/edit/main/111.png)
+[Image alt](https://github.com/mikezinovenkov/timeseries_forecasting/raw/edit/main/111.png)
